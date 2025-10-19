@@ -1,1 +1,5 @@
-This is a Project where we are looking to use all the knowledge acquired in The Odin Project, creating a website for Recipes Project.
+Project for HTML Foundations.
+
+It includes a main page with three links to three different recipes.
+
+Each recipe links the original recipe it was inspired from.
